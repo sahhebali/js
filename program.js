@@ -51,35 +51,60 @@ greedCombination(65) */
     123
     1234
     */
-   /*  let line = 5;
-    for (let a = 1; a <= line; a++) {
-        let line = "";
-        for (let b = 1; b<= a; b++) {
-            // line += "*";
-            line = line+ " &"
-        }
-        console.log(line);
-    } */
+/*  let line = 5;
+ for (let a = 1; a <= line; a++) {
+     let line = "";
+     for (let b = 1; b<= a; b++) {
+         // line += "*";
+         line = line+ " &"
+     }
+     console.log(line);
+ } */
 
-    // for (var i = 1; i <= 10; i++) {
-    //     var line = '* ';
-    //     for (var n = 1; n < i; n++) {
-    //         line += "* " ;
-    
-    //     }
-    //     console.log(line);
-    // }
+// for (var i = 1; i <= 10; i++) {
+//     var line = '* ';
+//     for (var n = 1; n < i; n++) {
+//         line += "* " ;
+
+//     }
+//     console.log(line);
+// }
 /* task 2 
  *****
  *****
  *****
  */
 
-    let lineNumber = 10;
-for (let c = 0; c < lineNumber; c++) {
-    let lineData = "";
-    for (let d = 0; d < lineNumber; d++) {
-        lineData += "# "
-    }
-    console.log(lineData);
-}
+//     let lineNumber = 10;
+// for (let c = 0; c < lineNumber; c++) {
+//     let lineData = "";
+//     for (let d = 0; d < lineNumber; d++) {
+//         lineData += "# "
+//     }
+//     console.log(lineData);
+// }
+
+
+
+
+// for(var i = 0; i<10;i++){
+//     var k = ""
+//     for(var j=0; j<10;j++){
+//         k = k+" *"
+//     }
+//     console.log(k);
+// }
+
+// let m = 0;
+// while (m <= 10) {
+//     let n = 0;
+//     while (n < 10) {
+       
+//         let o = ""
+//         o = o + "#"
+//         n++
+//         console.log(o);
+//     }
+//     m++
+// }
+
